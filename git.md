@@ -15,3 +15,4 @@ Para números não precisa de "
 
 texto = string
 juntar texto = concatenar
+= = atribuir
