@@ -1,9 +1,9 @@
 //FUB subtração 
 
-const number1 = 60;
+const number1 = prompt("Digite um número");
 
-const number2 = 10;
+const number2 = prompt("Digite um segundo número");
 
-console.log("subtração de 60 e 10 = " + (number1 - number2));
+alert("subtração de 60 e 10 = " + (number1 - number2));
 
 

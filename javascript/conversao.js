@@ -1,5 +1,5 @@
 //FUB conversão de celsius para fahrenheit
 
-const celsius = 20;
+const celsius = prompt("Quantos graus está hoje?");
 
-console.log("20°C são = " + ((celsius * 9/5) + 32) + "°F");
+alert(celsius + " são = " + ((celsius * 9 / 5) + 32) + "°F");

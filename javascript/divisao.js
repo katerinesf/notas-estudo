@@ -1,8 +1,8 @@
 //FUB divisão
 
-const number1 = 60;
+const number1 = prompt("Digite um número");
 
-const number2 = 10;
+const number2 = prompt("Digite um segundo número");
 
-console.log("divisão de 60 por 10 = " + (number1 / number2));
+alert("divisão de " + number1 + " por " + number2 + " = " + (number1 / number2));
 

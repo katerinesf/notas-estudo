@@ -1,5 +1,5 @@
 //FUB dobro
 
-let number1 = 60;
+const number1 = prompt("Digite um número");
 
-console.log("dobro de 60 = " + (number1 * 2));
+alert("dobro de " + number1 + " = " + (number1 * 2));
